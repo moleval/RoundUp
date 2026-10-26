@@ -1,0 +1,24 @@
+# Временные и служебные файлы AutoCAD / Visual LISP
+*.bak
+*.BAK
+*.sv$
+*.dvb
+*.fas
+*.vlx
+*.prv
+*.err
+acad.err
+
+# Отладочные журналы модуля
+*.log
+
+# Системные и редакторские файлы
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Секреты и локальные настройки
+.env
+*.local
